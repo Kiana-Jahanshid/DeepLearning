@@ -1,7 +1,8 @@
 # DeepLearning VS MLP
 
-
+in this assignment we are going to compare 4 dataset 
 # RESULTS 
+these are test accuracy results :
 
 || MLP | DeepLearning |
 | ------------ | ------------- | ------------- |
