@@ -1,8 +1,11 @@
 # DeepLearning VS MLP
 
-in this assignment we are going to compare 4 dataset 
+in this assignment we are going to compare 4 dataset accuracy .
+Once , test our datasets with MLP  , and then with deeplearning . 
+
 # RESULTS 
 these are test accuracy results :
+We see that , in complex datasets like Cifar10 or Cifar100 , which contains more detailed and diverse images , using DeepLearning gives more test accuracy compared with MLP . 
 
 || MLP | DeepLearning |
 | ------------ | ------------- | ------------- |
